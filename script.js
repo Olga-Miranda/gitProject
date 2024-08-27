@@ -1,3 +1,7 @@
+
 const a = 50;
-const b = 100
+
 const myFanc = ()=>{};
+
+const b = "Hi there!";
+
